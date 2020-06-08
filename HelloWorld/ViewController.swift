@@ -20,8 +20,6 @@ class ViewController: UIViewController {
             self.navigationController?.pushViewController(controller, animated: true)
         }
         
-            
-        
     }
     
     override func viewDidLoad() {

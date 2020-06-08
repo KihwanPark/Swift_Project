@@ -61,11 +61,11 @@
 				955E07A52483DF97005B6F81 /* AppDelegate.swift */,
 				955E07A72483DF97005B6F81 /* SceneDelegate.swift */,
 				955E07A92483DF97005B6F81 /* ViewController.swift */,
+				955E07B924869C88005B6F81 /* DetailController.swift */,
 				955E07AB2483DF97005B6F81 /* Main.storyboard */,
 				955E07AE2483DF98005B6F81 /* Assets.xcassets */,
 				955E07B02483DF98005B6F81 /* LaunchScreen.storyboard */,
 				955E07B32483DF98005B6F81 /* Info.plist */,
-				955E07B924869C88005B6F81 /* DetailController.swift */,
 			);
 			path = HelloWorld;
 			sourceTree = "<group>";
